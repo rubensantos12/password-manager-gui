@@ -90,21 +90,27 @@ select {
 }
 
 .login-button {
+  text-decoration: none;
   color: white;
   background-color: var(--button-bck-color);
-  width: auto;
   border-radius: 0.5rem;
   margin-right: 0.5rem;
   width: 4.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .register-button {
+  text-decoration: none;
   color: white;
   background-color: var(--button-bck-color);
-  width: auto;
   border-radius: 0.5rem;
   margin-right: 0.5rem;
   width: 4.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .dark-mode-button {
