@@ -12,6 +12,7 @@
     "vite": "^4.3.2"
   },
   "dependencies": {
-    "dark-mode-toggle": "^0.14.6"
+    "dark-mode-toggle": "^0.14.6",
+    "jquery": "^3.6.4"
   }
 }
